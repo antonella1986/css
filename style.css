@@ -15,7 +15,28 @@
     color: grey;
 }
 
-#data{
+.small{
     color: grey;
     font-size: 12px;
 }
+
+.tabella{
+
+}
+
+.titoletti{
+    text-align: left;
+    background-color: #20A9E5;
+    color: white;
+}
+
+#riga1{
+    background-color: #B1E5F2;
+}
+
+#riga3{
+    background-color: #B1E5F2;
+}
+
+
+
