@@ -21,6 +21,12 @@
     color: grey;
 }
 
+#booleaner{
+    color: #24AAE5;
+    font-weight: 500;
+    text-decoration: none;
+}
+
 .small{
     color: grey;
     font-size: 12px;
