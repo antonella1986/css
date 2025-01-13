@@ -1,0 +1,21 @@
+.header{
+    
+}
+
+#logo{
+    width: 200px;
+    height: auto;
+}
+
+#titolo{
+    font-weight: 900;
+}
+
+#autore{
+    color: grey;
+}
+
+#data{
+    color: grey;
+    font-size: 12px;
+}
