@@ -1,10 +1,16 @@
-.header{
-    
+#pattern{
+    background-color: #4EA0FF;
+    width: 50%;
 }
 
 #logo{
     width: 200px;
     height: auto;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
 }
 
 #titolo{
@@ -20,8 +26,8 @@
     font-size: 12px;
 }
 
-.tabella{
-
+#tabella{
+    margin: 0;
 }
 
 .titoletti{
@@ -36,6 +42,22 @@
 
 #riga3{
     background-color: #B1E5F2;
+}
+
+#titolo-f{
+    color: grey;
+}
+
+#monitor{
+    display: block;
+}
+
+#titolo-f1{
+    font-weight: 900;
+}
+
+#titolo-f2{
+    font-weight: 900;
 }
 
 
